@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362758442432",
+    "project_id": "recyclerviewsample-a7d8c",
+    "storage_bucket": "recyclerviewsample-a7d8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362758442432:android:12c3beb024481ce57c8c25",
+        "android_client_info": {
+          "package_name": "com.activator.appinboxrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362758442432-5bu7ebtvai05ejoi41dmkt19gqv2ur1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtHIGPeBwNXDdT4k9KaNs_MTbmqNFh8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362758442432-5bu7ebtvai05ejoi41dmkt19gqv2ur1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
